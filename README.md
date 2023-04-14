@@ -1,6 +1,13 @@
 # Intro to Computational Humanities example code
 
-This repository contains several (sequences of) Python scripts illustrating the application of simple computational and machine learning techniques to humanistic data.  Students can study and adopt them as needed.  After cloning this repository and changing into its directory on the command line, initialize a virtual environment and install the dependencies:
+This repository contains several (sequences of) Python scripts illustrating the application of simple computational and machine learning techniques to humanistic data.  Students can study and adopt them as needed.  After cloning this repository and changing into its directory by running:
+
+```
+$ git clone https://github.com/comp-int-hum/AS360-machine-learning-code.git
+$ cd AS360-machine-learning-code
+```
+
+You can run the scripts in a variety of ways.  For instance, you could initialize a virtual environment and install the dependencies:
 
 ```
 $ python3 -m venv local
